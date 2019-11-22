@@ -1,5 +1,5 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![NSF-XXXXXXX](https://img.shields.io/badge/NSF-XXXXXXX-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=XXXXXXX) [![NSF-XXXXXXX](https://img.shields.io/badge/NSF-XXXXXXX-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=XXXXXXX)
+[![NSF-XXXXXXX](https://img.shields.io/badge/NSF-1928366-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1928366)
 
 # Throughput W3C - API Alignment
 
@@ -47,4 +47,4 @@ Metrics of success for this project include:
     - API equivalents
     - Images/data renderings
   * Website - is there a location to view the examples outside of the GitHub repository
-  * Pageview/other metrics - How has this resource been used by others?
+    - Pageview/other metrics - How has this resource been used by others?
